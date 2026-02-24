@@ -1,3 +1,4 @@
 OLLAMA_URL=http://localhost:11434
 OUTPUT_DIR=./output
-CHAT_MODEL=qwen3:14b
+CHAT_MODEL-[general use]=qwen3:14b
+CHAT_MODEL2 for tools=qwen3:4b-instruct
