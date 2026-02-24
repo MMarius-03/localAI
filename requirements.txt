@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+pydantic
+aiohttp
+httpx
+reportlab
+PyPDF2
+matplotlib
+qrcode
+fpdf2
+python-docx
+sympy
+deep-translator
+beautifulsoup4
+Pillow
+slowapi
+# Optional but recommended
+markdown2
+pdfkit
+pymupdf
+mammoth
